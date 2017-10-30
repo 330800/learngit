@@ -6,3 +6,4 @@ hello pl
 creating a new branch is quick
 creating a new branch 'featurel'
 add merge
+git is a free software
